@@ -1,6 +1,5 @@
 # Cisco SD-WAN Orchestration Project
 
-![Cisco SD-WAN Logo](https://www.cisco.com/c/dam/en/us/products/collateral/cloud-systems-management/sd-wan/nb-06-cisco-sd-wan-1200x628.png)
 
 This repository contains the LaTeX source files for my academic project on **Cisco SD-WAN Orchestration**, implemented during my internship at 3S (Standard Sharing Software). The project demonstrates a complete SD-WAN deployment using Cisco Viptela technology.
 
